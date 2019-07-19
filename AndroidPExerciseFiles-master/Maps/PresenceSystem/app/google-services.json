@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204498784945",
+    "firebase_url": "https://presencesystem-e1ac3.firebaseio.com",
+    "project_id": "presencesystem-e1ac3",
+    "storage_bucket": "presencesystem-e1ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204498784945:android:9f01670b50705018",
+        "android_client_info": {
+          "package_name": "com.example.presencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204498784945-09i6anro2ro5krngututad3dfl7881fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.presencesystem",
+            "certificate_hash": "7975b1b2b483728139a48d050bde43759c58fb59"
+          }
+        },
+        {
+          "client_id": "204498784945-nsoc14k7dcuvagve9le2rqus9tphv9a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhzfIOKWNQEPVON_40IRqTCUqa_ZNHrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204498784945-nsoc14k7dcuvagve9le2rqus9tphv9a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

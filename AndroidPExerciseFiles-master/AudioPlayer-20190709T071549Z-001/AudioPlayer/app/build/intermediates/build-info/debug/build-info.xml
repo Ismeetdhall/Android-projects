@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="28"
+    build-mode="HOT_WARM"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.3.2"
+    timestamp="1562137026880"
+    token="5744904339637171571"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="200" />
+    <task
+        name="instant-run-dex"
+        duration="55" />
+    <task
+        name="instant-run-transform"
+        duration="90" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1562136622993"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1562136930452"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1562137026880"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saha/Downloads/AudioPlayer/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
